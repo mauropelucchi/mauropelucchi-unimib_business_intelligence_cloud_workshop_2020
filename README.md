@@ -1,4 +1,4 @@
-# Business Intelligence Workshop 2020
+# Cloud Business Intelligence Workshop 2020
 
 Workshop on Machine Learning and Data Science Platform in cloud for Business Intelligence course
 
@@ -9,7 +9,7 @@ The workshop consists of two topics:
 
 - [Cloud Business Intelligence](https://github.com/mauropelucchi/mauropelucchi-unimib_business_intelligence_cloud_workshop_2020/blob/main/Business_Intelligence_Cloud.pdf): in this section we present Cloud Business Intelligence
 
-In the second topic, the workshop presents a notebook (on Databricks) about the training of a basic Machine Learning model, that covers:
+In the second topic, the workshop presents a [notebook (on Databricks)](https://github.com/mauropelucchi/mauropelucchi-unimib_business_intelligence_cloud_workshop_2020/blob/main/ESCO4Occupation_Classifier.ipynb) about the training of a basic Machine Learning model, that covers:
 
 - Load of the data and ETL process
 - Processing of the text (remove stopwords, cleaning, ...)
