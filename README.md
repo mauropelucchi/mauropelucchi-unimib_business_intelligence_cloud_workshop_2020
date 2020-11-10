@@ -1,14 +1,13 @@
-# SGI Workshop 2020
+# Business Intelligence Workshop 2020
 
-Workshop on Machine Learning in production for Statistics and Information Management course
+Workshop on Machine Learning and Data Science Platform in cloud for Business Intelligence course
 
 
-In this repository you can find the materials from the Workshop 2020 @ Data Mining course (STATISTICA E GESTIONE DELLE INFORMAZIONI - University of Milano Bicocca)
+In this repository you can find the materials from the Workshop 2020 @ Business Intelligence course (Data Science Master's Degree Programme - University of Milano Bicocca)
 
 The workshop consists of two topics:
 
-- [Cloud Platform for Data Science](https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science): in this section we present Google Colaboratory and Databricks
-- Big Data in a real project
+- [Cloud Business Intelligence](https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science): in this section we present Cloud Business Intelligence
 
 In the second topic, the workshop presents a notebook (on Databricks) about the training of a basic Machine Learning model, that covers:
 
@@ -21,7 +20,7 @@ In the second topic, the workshop presents a notebook (on Databricks) about the 
 
 # MIT License
 
-Copyright (c) 2020 Mauro Pelucchi and Alessandro Vaccarino
+Copyright (c) 2020 Mauro Pelucchi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
