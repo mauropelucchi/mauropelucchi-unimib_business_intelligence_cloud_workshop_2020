@@ -7,7 +7,7 @@ In this repository you can find the materials from the Workshop 2020 @ Business 
 
 The workshop consists of two topics:
 
-- [Cloud Business Intelligence](https://github.com/mauropelucchi/sgi_workshop_2020/tree/master/cloud_data_science): in this section we present Cloud Business Intelligence
+- [Cloud Business Intelligence](https://github.com/mauropelucchi/mauropelucchi-unimib_business_intelligence_cloud_workshop_2020/blob/main/Business_Intelligence_Cloud.pdf): in this section we present Cloud Business Intelligence
 
 In the second topic, the workshop presents a notebook (on Databricks) about the training of a basic Machine Learning model, that covers:
 
